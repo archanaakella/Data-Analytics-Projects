@@ -1,7 +1,4 @@
-# AfameTechnologies.
-
-This repository contains the projects completed during my Data Analyst Internship at Afame Technologies. The internship involved working on two projects focusing on sales data analysis and Titanic survival prediction
-
+#data analytics
 Projects Overview
 
 Sales Data Analysis: Analyzed a sizable sales dataset to identify patterns, best-selling items, and revenue indicators to assist in business decision-making.
